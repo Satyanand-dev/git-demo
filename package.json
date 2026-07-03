@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "docx": "^9.7.1"
+  },
+  "name": "feild_based_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "manual.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
